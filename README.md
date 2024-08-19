@@ -1,1 +1,1 @@
-RUN in cmd ./server <username>
+RUN in cmd ./server username
